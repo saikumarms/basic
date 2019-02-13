@@ -13,7 +13,7 @@ int main()
     if(b==*p)
         printf("System is Little Endian\n");
     else
-        printf("System is Big Endian\n");
+        printf("\nSystem is Big Endian\n");
     printf("%x%x%x\n",*p,*(p+1),*(p+2));
     a2=a1>>16;
     b=a2;
