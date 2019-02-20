@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a2;
+    int a2,a3;
     int array[]={1,0,1,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,1,0,1},a,b,i,f=0,r=0,l=0;
     printf("Sample number:%d   ",0);
     printf("Voltage Level:%d   \n",array[0]);
