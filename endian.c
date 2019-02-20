@@ -4,7 +4,7 @@
 
 int main()
 {
-    int a=0x1a135f,a1,a2;
+    int a=0x1a135f,a1,a2,a3;
     a1=a;
     uint8_t b;
     char *p;
